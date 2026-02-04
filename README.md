@@ -9,16 +9,17 @@
 - 📊 Skilled in **Python (Pandas, NumPy), SQL, Excel, Power BI, Tableau**  
 - 🌱 Currently learning advanced data visualization and machine learning basics  
 - 💡 Interested in solving real-world problems with data-driven solutions  
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/) or email: your.email@example.com  
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/srihari-analytics) or email: sriharibhuyan30@hotmail.com  
 
 ---
 
 ## 🛠️ Skills
 - **Programming & Analysis:** Python, R, SQL  
-- **Data Wrangling:** Pandas, NumPy, Excel  
+- **Data Wrangling:** Pandas, NumPy, Excel
+- **Web Scraping & Extraction:** BeautifulSoup (bs4), Requests  
 - **Visualization Tools:** Power BI, Tableau, Matplotlib, Seaborn  
-- **Databases:** MySQL, PostgreSQL  
-- **Other:** Git, Jupyter Notebooks  
+- **Databases:** MySQL, Bigquery  
+- **Other:** Github, Jupyter Notebooks  
 
 ---
 
@@ -41,12 +42,6 @@ Local dataset project focusing on traffic congestion and air quality.
 - Created interactive Power BI dashboard  
 - Suggested data-driven recommendations  
 
----
-
-## 📈 GitHub Stats
-![Srihari's GitHub stats](https://github-readme-stats.vercel.app/api?username=SrihariAnalytics&show_icons=true&theme=radical)
-
----
 
 ## 🌟 Goals
 - Build a strong portfolio with real-world datasets  
