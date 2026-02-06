@@ -24,16 +24,17 @@
 ---
 
 ## 📂 Featured Projects
- 📊 Data Professional Survey Dashboard 
+ ### [Data Professional Survey](https://github.com/SrihariAnalyst/data-professional-survey-dashboard.git)
+ Data Professional Survey Dashboard 
  – Visual breakdown of salaries, skills, and job satisfaction from 630 global data professionals.
 
-### 🔹 [Customer Churn Prediction](https://github.com/SrihariAnalytics/customer-churn)
+### [Customer Churn Prediction](https://github.com/SrihariAnalytics/customer-churn)
 Analyzed telecom customer data to predict churn.  
 - Applied data cleaning and feature engineering  
 - Built logistic regression model  
 - Visualized churn patterns with dashboards  
 
-### 🔹 [Bengaluru Traffic & Pollution Insights](https://github.com/SrihariAnalytics/bengaluru-traffic-pollution)
+###  [Bengaluru Traffic & Pollution Insights](https://github.com/SrihariAnalytics/bengaluru-traffic-pollution)
 Local dataset project focusing on traffic congestion and air quality.  
 - Combined multiple datasets  
 - Created interactive Power BI dashboard  
