@@ -24,11 +24,8 @@
 ---
 
 ## 📂 Featured Projects
-### 🔹 [Sales Data Analysis](https://github.com/SrihariAnalytics/sales-data-analysis)
-Exploratory Data Analysis on retail sales dataset.  
-- Cleaned and transformed raw data  
-- Built visualizations to identify sales trends  
-- Highlighted actionable insights for business growth  
+ 📊 Data Professional Survey Dashboard 
+ – Visual breakdown of salaries, skills, and job satisfaction from 630 global data professionals.
 
 ### 🔹 [Customer Churn Prediction](https://github.com/SrihariAnalytics/customer-churn)
 Analyzed telecom customer data to predict churn.  
