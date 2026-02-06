@@ -34,11 +34,12 @@ Seattle Airbnb housing price dashboard (Tableau).
 - Visualized revenue trends across 2016  
 - Interactive Tableau dashboard with geographic and time-series insights 
 
-###  [Bengaluru Traffic & Pollution Insights](https://github.com/SrihariAnalytics/bengaluru-traffic-pollution)
-Local dataset project focusing on traffic congestion and air quality.  
-- Combined multiple datasets  
-- Created interactive Power BI dashboard  
-- Suggested data-driven recommendations  
+### [Bike Sales Dashboard](https://github.com/SrihariAnalyst/Excel-Bike-Sales-Dashboard.git)
+Interactive Excel dashboard analyzing bike purchase behavior.
+- Visualized customer demographics (income, age, gender, commute distance)
+- Built slicers for marital status, region, and education
+- Highlighted key insights for marketing and sales strategies
+
 
 
 ## 🌟 Goals
