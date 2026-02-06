@@ -1,25 +1,25 @@
 # SrihariAnalytics
 # Hi, I'm Srihari 👋  
-### Data Analyst | Passionate about turning raw data into actionable insights
+### Data Analyst/Business Analyst |  Transforming raw data into business-ready insights
 
 ---
 
 ## 🔍 About Me
-- 🎓 Fresher data analyst based in Bengaluru, India  
-- 📊 Skilled in **Python (Pandas, NumPy), SQL, Excel, Power BI, Tableau**  
-- 🌱 Currently learning advanced data visualization and machine learning basics  
+- 🎓 Entry-level data analyst based in Bengaluru, India  
+- 📊 Proficient in **Python (Pandas, Seaborn, Matplotlib, NumPy), SQL, Excel, Power BI, Tableau**  
+- 🌱 Exploring advanced visualization techniques and foundational machine learning concepts to build a strong base for future data science work  
 - 💡 Interested in solving real-world problems with data-driven solutions  
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/srihari-analytics) or email: sriharibhuyan30@hotmail.com  
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/srihari-analytics) or email: sriharibhuyan30@hotmail.com  
 
 ---
 
 ## 🛠️ Skills
-- **Programming & Analysis:** Python, R, SQL  
-- **Data Wrangling:** Pandas, NumPy, Excel
-- **Web Scraping & Extraction:** BeautifulSoup (bs4), Requests  
-- **Visualization Tools:** Power BI, Tableau, Matplotlib, Seaborn  
-- **Databases:** MySQL, Bigquery  
-- **Other:** Github, Jupyter Notebooks  
+- **Languages & Analysis:** Python, R, SQL  
+- **Data Wrangling & Cleaning:** Pandas, NumPy, Excel  
+- **Visualization Tools & Dashboards:** Power BI, Tableau, Matplotlib, Seaborn  
+- **Databases & Querying:** MySQL, Bigquery  
+- **- Tools & Platforms:** Github, Jupyter Notebooks
+- **Web Scraping:** BeautifulSoup, Requests 
 
 ---
 
@@ -36,10 +36,10 @@ Seattle Airbnb housing price dashboard (Tableau).
 - Analyzed pricing by bedroom count and zip code  
 - Visualized revenue trends across 2016  
 - Interactive Tableau dashboard with geographic and time-series insights
-- View interactive dashboard: [Tableau Public Link](https://public.tableau.com/...)
+- View interactive dashboard: [Tableau Public Link](https://public.tableau.com/views/AirBnBFullProject_17691911227520/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### [Data Professional Survey Dashboard](https://github.com/SrihariAnalyst/data-professional-survey-dashboard.git)
-Interactive Power BI/Excel-style dashboard analyzing global data professionals.
+Interactive Power BI dashboard analyzing global data professionals.
 - Visual breakdown of salaries, skills, and job satisfaction from 630 survey responses
 - Gauges for happiness with salary and work-life balance
 - Favorite programming languages segmented by job title
