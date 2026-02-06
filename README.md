@@ -40,7 +40,7 @@ Interactive Excel dashboard analyzing bike purchase behavior.
 - Built slicers for marital status, region, and education
 - Highlighted key insights for marketing and sales strategies
 
-### Customer Call List Cleaning ()
+### Customer Call List Cleaning (https://github.com/SrihariAnalyst/Customer-Call-List-Data-Cleaning-with-Pandas.git)
 Data cleaning project using Python (Pandas).
 - Fixed inconsistent phone numbers and messy names
 - Normalized categorical values (Yes / No)
@@ -54,7 +54,11 @@ Exploratory Data Analysis of global population dataset using Python (Pandas, Sea
 - Visualized growth patterns (1970–2022) with line charts
 - Exported raw, cleaned, and analysis‑ready datasets
 
-
+### [Global Layoffs Dataset]()
+SQL-based data cleaning and exploratory analysis of global company layoffs (2020–2023).
+- Cleaned raw dataset using SQL (duplicates, nulls, standardization)
+- Performed exploratory data analysis (EDA) to identify trends, max layoffs, and company rankings
+- Exported processed dataset (CSV) for visualization and reporting
 
 
 ## 🌟 Goals
