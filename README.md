@@ -24,7 +24,12 @@
 ---
 
 ## 📂 Featured Projects
-
+### [Supply Chain Analysis](https://github.com/SrihariAnalyst/supply-chain-analysis.git)
+The goal of this analysis is to answer key business questions:
+- Which shipping modes and regions have the highest late delivery rates?
+- What product categories and departments drive the most profit?
+- Are there seasonal patterns in order volumes and revenue?
+- How do different customer segments behave in terms of order size and frequency?
 ### [Bike Sales Dashboard](https://github.com/SrihariAnalyst/Excel-Bike-Sales-Dashboard.git)
 Interactive Excel dashboard analyzing bike purchase behavior.
 - Visualized customer demographics (income, age, gender, commute distance)
